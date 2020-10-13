@@ -1,6 +1,4 @@
 def majority_ele(arr):
-
-
     max_count = 0
     index = -1
     for i in range(len(arr)):
