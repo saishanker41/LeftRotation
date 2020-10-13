@@ -14,7 +14,7 @@ def majority_ele(arr):
     if len(arr) // 2:
         print(arr[index])
     else:
-        print("No Majority Ele")
+        return 
 
 arr = [2, 2, 5, 2, 3, 6]
 
