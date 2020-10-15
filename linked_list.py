@@ -46,7 +46,6 @@ ll = LinkedList()
 ll.insert_list([2,1,4,3,6])
 ll.print()
 ll.middle_ele()
-ll.print()
-          
+
 
 
