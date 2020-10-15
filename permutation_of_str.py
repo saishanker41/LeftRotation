@@ -11,7 +11,7 @@ def permut(s,l,r):
             permut(s,l+1,r)
             a[l], a[i] = a[i], a[l]
 
-string = "SAI"
+string = "COMPUTER"
 n = len(string)
 a = list(string)
 permut(a,0,n-1)
